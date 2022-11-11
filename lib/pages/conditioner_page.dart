@@ -61,7 +61,7 @@ class _ConditionerPageState extends State<ConditionerPage> {
                 ],
                 decoration: InputDecoration(
                   border: const OutlineInputBorder(),
-                  labelText: 'Текст для шифрования до 28 символов',
+                  labelText: 'Текст для шифрования до 28 символов ',
                   suffixIcon: IconButton(
                     onPressed: (){
                       // encode;
